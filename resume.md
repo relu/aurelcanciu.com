@@ -22,7 +22,7 @@ place.
 ### Employment history
 
 _2012---Present_: Self employed<br>
-**Freelnace Web Developer and Consultant**
+**Freelance Web Developer and Consultant**
 
 I've worked on a large number of project serving clients such as:
 [oDesk](https://www.odesk.com), [Simplon.co](http://simplon.co),
