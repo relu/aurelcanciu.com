@@ -13,11 +13,11 @@ technologies, techniques and workflow processes.
 
 ### Career Objectives
 
-I'm an ambitions professional looking for new oportunities to learn and evolve
-while delivering high quality code and products. I enjoy involing in
+I'm an ambitions professional looking for new opportunities to learn and evolve
+while delivering high quality code and products. I enjoy involving in
 diverse and challenging projects where I can contribute with ideas and resolve
 real world problems, help other people and hopefully make the world a better
-place.
+place through my efforts.
 
 ### Employment history
 
@@ -26,10 +26,10 @@ _2012---Present_: Self employed<br>
 
 I've worked on a large number of project serving clients such as:
 [oDesk](https://www.odesk.com), [Simplon.co](http://simplon.co),
-[BrandHoot](http://brandhoot.com) etc. My work involves both front and backend
-development of websites, web apps and services, as well as building tools,
-DevOps and Linux server administration, using a large range of technologies and
-stacks.
+[BrandHoot](http://brandhoot.com) etc. My work involves both front-end and
+back-end development of websites, web apps and services, as well as building
+tools, DevOps and Linux server administration, using a large range of
+technologies and stacks.
 
 
 _2011---2012_: Upsources Company (Sibcon Trading s.r.l), Sibiu<br>
