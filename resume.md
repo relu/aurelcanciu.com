@@ -13,8 +13,8 @@ technologies, techniques and workflow processes.
 
 ### Career Objectives
 
-I'm an ambitions professional looking for new opportunities to learn and evolve
-while delivering high quality code and products. I enjoy involving in
+I'm an ambitious professional looking for new opportunities to learn and evolve
+while delivering high quality code and products. I enjoy getting involved in
 diverse and challenging projects where I can contribute with ideas and resolve
 real world problems, help other people and hopefully make the world a better
 place through my efforts.
