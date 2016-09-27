@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About
+title: Aurel Canciu
 tagline: About Me
 tags: [about, aurel canciu]
 modified: 2014-04-02 13:45
@@ -12,8 +12,8 @@ image:
   creditlink: https://www.flickr.com/photos/adrian_kingsley-hughes/
 ---
 
-Hey there! --- I'm Aurel Canciu, a passionate freelance web developer living in
-the beautiful city of Sibiu, Romania. I love working with new and inovative
+I'm Aurel Canciu, a passionate freelance web developer living in
+the beautiful city of Cluj-Napoca, Romania. I love working with new and inovative
 technologies, getting involved in cool projects and meeting clever and
 interesting people.
 
@@ -26,5 +26,4 @@ making sure to deliver reliable and high quality code.
 When I'm not coding, I enjoy hiking, visiting new places, meeting new people
 and having a good time with friends and loved ones.
 
-For more information about my professional profile, visit my [resume
-page](/resume/).
+For more information about my professional profile, visit my [resume page](/resume/).

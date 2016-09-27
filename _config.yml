@@ -8,8 +8,8 @@ disqus_shortname: aurelcanciu
 owner:
   name:           Aurel Canciu
   avatar:         bio-photo.jpg
-  bio:            "Passionate web developer from Sibiu, Romania."
-  email:          your@email.com
+  bio:            "Passionate web developer from Cluj-Napoca, Romania."
+  email:          aurelcanciu@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        aurelcanciu
   facebook:
@@ -36,10 +36,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
   - title: Resume
     url: /resume/
 
